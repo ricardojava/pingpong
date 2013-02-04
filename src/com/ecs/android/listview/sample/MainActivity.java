@@ -11,7 +11,7 @@ import android.widget.Button;
  * For each button, an OnClickListener is defined that starts the appropriate activity. 
  */
 public class MainActivity extends Activity {
-
+  
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
